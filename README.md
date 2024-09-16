@@ -16,6 +16,8 @@ Para ejecutar este proyecto, necesitas:
 
 - Python 3.12.6 o una versión estable. Puedes descargar Python desde python.org.
 - No se necesitan paquetes adicionales de Python, ya que el código solo utiliza librerías estándar.
+- Para ejecutar el programa en una terminal ingrese:
+   python myQueue.py
   
 ## Instrucciones para la ejecución del código:
 - Asegúrate de tener Python 3.12.6 instalado.
