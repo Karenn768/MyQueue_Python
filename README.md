@@ -16,10 +16,10 @@ Para ejecutar este proyecto, necesitas:
 
 - Python 3.12.6 o una versión estable. Puedes descargar Python desde python.org.
 - No se necesitan paquetes adicionales de Python, ya que el código solo utiliza librerías estándar.
-- Para ejecutar el programa en una terminal ingrese:
-   python myQueue.py
   
 ## Instrucciones para la ejecución del código:
 - Asegúrate de tener Python 3.12.6 instalado.
 - Descarga o clona el proyecto a tu máquina local.
-- Ejecuta el archivo Python que contiene la implementación de la cola.
+- Ejecuta el archivo Python que contiene la implementación de la cola en un IDE o editor de texto.
+- Para ejecutar el programa en una terminal ingrese:
+   python myQueue.py
