@@ -22,4 +22,5 @@ Para ejecutar este proyecto, necesitas:
 - Descarga o clona el proyecto a tu máquina local.
 - Ejecuta el archivo Python que contiene la implementación de la cola en un IDE o editor de texto.
 - Para ejecutar el programa en una terminal ingrese:
-   python myQueue.py
+  
+   `python myQueue.py`
